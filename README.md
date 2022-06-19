@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Achilleus42.
+- 👀 I’m interested in C.
+- 🌱 I’m currently learning Python.
